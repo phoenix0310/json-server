@@ -8,5 +8,8 @@
     "start": "json-server -p 3000 -w mock.json"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.0"
+  }
 }
